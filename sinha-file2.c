@@ -1,10 +1,10 @@
 #include<stdio.h>
 void name(){
-    int a = 10;
-    printf("Sinha");
+    printf("Sinha Afroz");
 }
 int main() {
     name();
     return 0;
 }
+
 
